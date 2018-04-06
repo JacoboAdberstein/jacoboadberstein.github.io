@@ -11,4 +11,4 @@ Letter of recommendation from my high school principal.
 
 Letter of recommendation from AP Statistics teacher and the senior class coordinator.
 
-![_config.yml]({{ site.baseurl }}/images/LetterRec.png)
+![_config.yml]({{ site.baseurl }}/images/SpenLet.png)
