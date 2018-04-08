@@ -2,6 +2,6 @@
 layout: post
 title: Transcripts
 ---
-Below are some of my projects
+Updated transcript
 
 ![_config.yml]({{ site.baseurl }}/images/Transcript.png)
