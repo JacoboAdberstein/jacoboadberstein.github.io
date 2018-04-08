@@ -2,6 +2,6 @@
 layout: post
 title: Volunteer and News
 ---
-Below are some of my projects
+Different volunteering I did and some news about it
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/news.png)
