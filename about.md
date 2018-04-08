@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a nerdy kid, who grew up playing videogames and playing with superhero action figures, who has the dream and the ambition to help as much people as possible. I am the type of guy that likes to help, from a simple physics question, to several hour tutorings in Spanish and Japanese or math. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:jadberstein@gmail.com)
